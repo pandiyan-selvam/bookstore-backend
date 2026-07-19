@@ -2,6 +2,8 @@
 Backend application for the Bookstore 
 
 Tech Stack
-Java
-Spring Boot
-H2 Database
+1. Java
+2. Spring Boot
+3. H2 Database
+
+Basic data for Bookstore added in /data/bnpbookstore.mv.db
