@@ -7,3 +7,7 @@ Tech Stack
 3. H2 Database
 
 Basic data for Bookstore added in /data/bnpbookstore.mv.db
+
+# How to setup in local
+1. Do maven install
+2. Start the application 
